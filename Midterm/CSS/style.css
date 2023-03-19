@@ -134,7 +134,7 @@ h4{
       .desc-review{
         line-height: 1.5rem;
         letter-spacing: 1px;
-        color: rgb(150, 150, 150);
+        color: black;
       }
       
       @media (max-width: 678px){
