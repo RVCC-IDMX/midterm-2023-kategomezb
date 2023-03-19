@@ -1,7 +1,9 @@
 body{
     background-color: black;
+    background-image: url(../img/background.jpg);
     color: white;
     font-family:Neucha;
+    
     
 }
 h1, h2, h3, h4, h5, h6 {
@@ -32,11 +34,13 @@ h4{
 
 
 /*List Section*/
-#list, footer{
+#list, footer {
         background-color:#212627;
+        background-image: url(../img/second-backg.jpg);
         text-align:center;
         padding: 10px;
         border:5px solid #C7A44C;
+        align-content: center;
 
 }
 #list {
